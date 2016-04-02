@@ -1,0 +1,33 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ecobbold13@gmail.com",
+    "enableMultiJS": true,
+    "longName": "PetRocky",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/rockhome.png",
+                "name": "ROCK_HOME",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "data/rockfriend.pdc",
+                "name": "ROCK_FRIEND_HAPPY",
+                "targetPlatforms": null,
+                "type": "raw"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "PetRocky",
+    "uuid": "3e0cbff1-aed6-4f1e-9084-cf0c02a1db7e",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
